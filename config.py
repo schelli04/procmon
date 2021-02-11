@@ -1,0 +1,6 @@
+DBHOST = "ocs"
+DBPORT="3307"
+DBUSER = "autodesk"
+DBPWD = "*******"
+DB = "test"
+TABLE = "autodesklog"
